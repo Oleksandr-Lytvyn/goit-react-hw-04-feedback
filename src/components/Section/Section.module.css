@@ -1,0 +1,14 @@
+section {
+  width: 100%;
+  margin-top: 30px;
+  padding: 10px 30px;
+  background-color: rgb(240, 255, 248);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.title {
+  color: rgb(78, 78, 78);
+}
